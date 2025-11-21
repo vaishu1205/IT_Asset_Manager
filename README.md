@@ -1,4 +1,4 @@
-# Asset Manager
+# IT_Asset_Manager
 
 ### Spring boot application to:
  - Upload assets
